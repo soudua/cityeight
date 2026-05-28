@@ -15,6 +15,8 @@ CSS
 JavaScript
 Responsive Web Design principles
 Modern UI/UX practices
+
+
 🎯 Purpose
 
 This project was developed to represent a high-end travel brand focused on elegance, trust, and delivering a premium customer experience through thoughtful design and smooth user interaction.
