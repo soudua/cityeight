@@ -1,18 +1,20 @@
-Premium Travel Agency Website
+✈️ Premium Travel Agency Website
 
 A modern and elegant travel agency website created for Athina Kalaizidis.
-Designed to showcase premium travel experiences, luxury destinations, and personalized travel services with a clean and sophisticated user experience.
+Designed to showcase premium travel experiences, luxury destinations, and personalized travel services with a clean, sophisticated, and user-friendly interface.
 
-Features
+🌍 Features
 Luxury-inspired modern UI
-Responsive design for all devices
+Fully responsive design (mobile, tablet, desktop)
 Destination and service showcase
-Smooth navigation and polished layouts
-Fast and optimized performance
-Tech Stack
-HTML / CSS / JavaScript
-Responsive Design
-Modern UI/UX Principles
-Purpose
+Smooth navigation and intuitive layout
+Fast performance and optimized loading
+🛠️ Tech Stack
+HTML
+CSS
+JavaScript
+Responsive Web Design principles
+Modern UI/UX practices
+🎯 Purpose
 
-This project was built to represent a high-end travel brand with a focus on elegance, trust, and premium customer experience.
+This project was developed to represent a high-end travel brand focused on elegance, trust, and delivering a premium customer experience through thoughtful design and smooth user interaction.
