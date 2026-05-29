@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 200 200" height="200" width="200">
+  
+  <circle fill="#1a1a1a" r="92" cy="100" cx="100"></circle>
+  <circle fill="#222222" r="84" cy="100" cx="100"></circle>
+  
+  
+  <text letter-spacing="-12" paint-order="stroke fill" stroke-width="8" stroke="#1a1a1a" fill="#3b82b4" font-weight="700" font-size="118" font-family="Arial Black, sans-serif" y="137" x="62">C</text>
+  
+  
+  <text letter-spacing="-12" paint-order="stroke fill" stroke-width="8" stroke="#1a1a1a" fill="#c9a96e" font-weight="700" font-size="118" font-family="Arial Black, sans-serif" y="137" x="118">E</text>
+</svg>
